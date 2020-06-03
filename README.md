@@ -23,11 +23,11 @@ Some information about Knowledge Graph Reasoning
 ## Path-based
 - **(PRA)** 2010 "Relational retrieval using a combination of path-constrained random walks." [paper](https://link.springer.com/article/10.1007/s10994-010-5205-8)
 
-- **(DeepPath)** 2017 "A Reinforcement Learning Method for Knowledge Graph Reasoning." [code](https://github.com/xwhan/DeepPath)
+- **(Deeppath)** 2017 "Deeppath:A Reinforcement Learning Method for Knowledge Graph Reasoning." [paper](https://arxiv.org/abs/1707.06690) [code](https://github.com/xwhan/DeepPath)
 
 - **(Minerva)** 2018 "GO FOR A WALK AND ARRIVE AT THE ANSWER: REASONING OVER PATHS IN KNOWLEDGE BASES USING REINFORCEMENT LEARNING." [paper](https://arxiv.org/abs/1711.05851) [code](https://github.com/shehzaadzd/MINERVA)
 
-- 2018 "Variational Knowledge Graph Reasoning." [code](https://github.com/wenhuchen/KB-Reasoning-Data)
+- 2018 "Variational Knowledge Graph Reasoning." [paper](https://arxiv.org/abs/1803.06581) [code](https://github.com/wenhuchen/KB-Reasoning-Data)
 
 - 2018 "Multi-Hop Knowledge Graph Reasoning with Reward Shaping." [paper](https://arxiv.org/abs/1808.10568) [code](https://github.com/salesforce/MultiHopKG)
 
@@ -40,6 +40,6 @@ Some information about Knowledge Graph Reasoning
 
 - 2019 "Probabilistic Logic Neural Networks for Reasoning." [paper](http://papers.nips.cc/paper/8987-probabilistic-logic-neural-networks-for-reasoning)
 
-- **(DRUM)** 2019 "End-To-End Differentiable Rule Mining On Knowledge Graphs."
+- **(DRUM)** 2019 "DRRM:End-To-End Differentiable Rule Mining On Knowledge Graphs." [paper](http://papers.nips.cc/paper/9669-drum-end-to-end-differentiable-rule-mining-on-knowledge-graphs)
 
-- **(Neural LP)** 2019 "Differentiable Learning of Logical Rules for Knowledge Base Reasoning." [code](https://github.com/fanyangxyz/Neural-LP)
+- **(Neural LP)** 2019 "Differentiable Learning of Logical Rules for Knowledge Base Reasoning." [paper](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning) [code](https://github.com/fanyangxyz/Neural-LP)
