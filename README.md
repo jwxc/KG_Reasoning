@@ -12,6 +12,7 @@ Some information about Knowledge Graph Reasoning
 - [NELL-One](https://sites.cs.ucsb.edu/~xwhan/datasets/nell.tar.gz)
 - [NELL-995](http://cs.ucsb.edu/~xwhan/datasets/NELL-995.zip)
 - [FB15k-237](https://drive.google.com/file/d/1klWL11nW3ZS6b2MtLW0MHnXu-XlJqDyA/view?usp=sharing)
+- [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)
 
 ## One-shot-Reasoning
 - **(GMatching)** 2018 "One-Shot Relational Learning for Knowledge Graphs." [paper](https://arxiv.org/abs/1808.09040) [code](https://github.com/xwhan/One-shot-Relational-Learning) 
