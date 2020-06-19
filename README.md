@@ -6,6 +6,7 @@ Some information about Knowledge Graph Reasoning
 * [One-shot_Reasoning](#One-shot_Reasoning)
 * [Path-based](#Path-based)
 * [Rule-based](#Rule-based)
+* [Relation-extraction](#Relation-extraction)
 
 ## Datasets
 - [Wiki-One](https://sites.cs.ucsb.edu/~xwhan/datasets/wiki.tar.gz)
@@ -44,3 +45,6 @@ Some information about Knowledge Graph Reasoning
 - **(DRUM)** 2019 "DRRM:End-To-End Differentiable Rule Mining On Knowledge Graphs." [paper](http://papers.nips.cc/paper/9669-drum-end-to-end-differentiable-rule-mining-on-knowledge-graphs)
 
 - **(Neural LP)** 2019 "Differentiable Learning of Logical Rules for Knowledge Base Reasoning." [paper](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning) [code](https://github.com/fanyangxyz/Neural-LP)
+
+## Relation-extraction
+- **(PCNN+ATT)** 2016 "Neural Relation Extraction with Selective Attention over Instances." [paper](http://www.thunlp.org/~lyk/publications/acl2016_nre.pdf) [code_tensorflow](https://github.com/thunlp/NRE) [code_pytorch](https://github.com/ShomyLiu/pytorch-relation-extraction)
