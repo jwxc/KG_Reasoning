@@ -7,6 +7,7 @@ Some information about Knowledge Graph Reasoning
 * [Path-based](#Path-based)
 * [Rule-based](#Rule-based)
 * [Relation-extraction](#Relation-extraction)
+* [Others](#Others)
 
 ## Datasets
 - [Wiki-One](https://sites.cs.ucsb.edu/~xwhan/datasets/wiki.tar.gz)
@@ -48,3 +49,7 @@ Some information about Knowledge Graph Reasoning
 
 ## Relation-extraction
 - **(PCNN+ATT)** 2016 "Neural Relation Extraction with Selective Attention over Instances." [paper](http://www.thunlp.org/~lyk/publications/acl2016_nre.pdf) [code_tensorflow](https://github.com/thunlp/NRE) [code_pytorch](https://github.com/ShomyLiu/pytorch-relation-extraction)
+
+## Others
+- **(DrKIT)** 2020 "DIFFERENTIABLE REASONING OVER A VIRTUAL KNOWLEDGE BASE." [paper](https://link.zhihu.com/?target=https%3A//openreview.net/pdf%3Fid%3DSJxstlHFPH) [code](http://www.cs.cmu.edu/~bdhingra/pages/drkit.html) [PS:TEXT -> VIRTUAL KNOWLEDGE BASE]
+
