@@ -50,6 +50,8 @@ Some information about Knowledge Graph Reasoning
 ## Relation-extraction
 - **(PCNN+ATT)** 2016 "Neural Relation Extraction with Selective Attention over Instances." [paper](http://www.thunlp.org/~lyk/publications/acl2016_nre.pdf) [code_tensorflow](https://github.com/thunlp/NRE) [code_pytorch](https://github.com/ShomyLiu/pytorch-relation-extraction)
 
+- **(Neural Snowball)** 2020 "Neural Snowball for Few-Shot Relation Learning." [paper](https://arxiv.org/pdf/1908.11007.pdf) [code](https://github.com/thunlp/Neural-Snowball)
+
 ## Others
 - **(DrKIT)** 2020 "DIFFERENTIABLE REASONING OVER A VIRTUAL KNOWLEDGE BASE." [paper](https://link.zhihu.com/?target=https%3A//openreview.net/pdf%3Fid%3DSJxstlHFPH) [code](http://www.cs.cmu.edu/~bdhingra/pages/drkit.html) [PS:TEXT -> VIRTUAL KNOWLEDGE BASE]
 
