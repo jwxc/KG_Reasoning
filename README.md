@@ -5,6 +5,7 @@ Some information about Knowledge Graph Reasoning
 * [Datasets](#Datasets)
 * [One-shot_Reasoning](#One-shot_Reasoning)
 * [Path-based](#Path-based)
+* [Graph-based](#Graph-based)
 * [Rule-based](#Rule-based)
 * [Relation-extraction](#Relation-extraction)
 * [Others](#Others)
@@ -34,6 +35,11 @@ Some information about Knowledge Graph Reasoning
 
 - 2018 "Multi-Hop Knowledge Graph Reasoning with Reward Shaping." [paper](https://arxiv.org/abs/1808.10568) [code](https://github.com/salesforce/MultiHopKG)
 
+
+## Graph-based
+- **(GraIL)** 2020 "Inductive Relation Prediction by Subgraph Reasoning." [paper](https://arxiv.org/abs/1911.06962) [code](https://github.com/kkteru/grail)
+
+
 ## Rule-based
 - 2015 "Knowledge Base Completion Using Embeddings and Rules." [paper](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewPaper/10798)
 
@@ -46,6 +52,8 @@ Some information about Knowledge Graph Reasoning
 - **(DRUM)** 2019 "DRRM:End-To-End Differentiable Rule Mining On Knowledge Graphs." [paper](http://papers.nips.cc/paper/9669-drum-end-to-end-differentiable-rule-mining-on-knowledge-graphs)
 
 - **(Neural LP)** 2019 "Differentiable Learning of Logical Rules for Knowledge Base Reasoning." [paper](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning) [code](https://github.com/fanyangxyz/Neural-LP)
+
+
 
 ## Relation-extraction
 - **(PCNN+ATT)** 2016 "Neural Relation Extraction with Selective Attention over Instances." [paper](http://www.thunlp.org/~lyk/publications/acl2016_nre.pdf) [code_tensorflow](https://github.com/thunlp/NRE) [code_pytorch](https://github.com/ShomyLiu/pytorch-relation-extraction)
