@@ -60,6 +60,10 @@ Some information about Knowledge Graph Reasoning
 
 - **(Neural Snowball)** 2020 "Neural Snowball for Few-Shot Relation Learning." [paper](https://arxiv.org/pdf/1908.11007.pdf) [code](https://github.com/thunlp/Neural-Snowball)
 
+- 2019 "Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks." [paper](https://www.aclweb.org/anthology/N19-1306/)
+
+- **(wRAN)** 2020 "Relation Adversarial Network for Low Resource Knowledge Graph Completion." [paper](https://arxiv.org/abs/1911.03091) [code](https://github.com/zxlzr/RAN)
+
 ## Others
 - **(DrKIT)** 2020 "DIFFERENTIABLE REASONING OVER A VIRTUAL KNOWLEDGE BASE." [paper](https://link.zhihu.com/?target=https%3A//openreview.net/pdf%3Fid%3DSJxstlHFPH) [code](http://www.cs.cmu.edu/~bdhingra/pages/drkit.html) [PS:TEXT -> VIRTUAL KNOWLEDGE BASE]
 
