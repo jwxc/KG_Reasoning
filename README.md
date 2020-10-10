@@ -45,6 +45,8 @@ Some information about Knowledge Graph Reasoning
 
 - 2016 "Jointly Embedding Knowledge Graphs and Logical Rules." [paper](https://www.aclweb.org/anthology/D16-1019.pdf)
 
+- **(RLvLR)** 2018 "Scalable Rule Learning via Learning Representation." [paper](https://www.ijcai.org/Proceedings/2018/0297.pdf)
+
 - 2019 "Logic Rules Powered Knowledge Graph Embedding." [paper](https://arxiv.org/abs/1903.03772)
 
 - 2019 "Probabilistic Logic Neural Networks for Reasoning." [paper](http://papers.nips.cc/paper/8987-probabilistic-logic-neural-networks-for-reasoning)
