@@ -1,4 +1,4 @@
-# KG_Reasoning
+# KG_Reasoning（知识推理）
 Some information about Knowledge Graph Reasoning
 
 ## Content
