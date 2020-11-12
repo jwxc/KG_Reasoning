@@ -24,6 +24,9 @@ Some information about Knowledge Graph Reasoning
 
 - **(CogKR)** 2019 "Cognitive Knowledge Graph Reasoning for One-shot Relational Learning." [paper](https://arxiv.org/abs/1906.05489) [code](https://github.com/THUDM/CogKR)
 
+## Few-shot-Reasoning
+- **(Meta-KGR)** 2019 "Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations." [paper](https://arxiv.org/pdf/1908.11513.pdf) [code](https://github.com/THU-KEG/MetaKGR)
+
 ## Path-based
 - **(PRA)** 2010 "Relational retrieval using a combination of path-constrained random walks." [paper](https://link.springer.com/article/10.1007/s10994-010-5205-8)
 
