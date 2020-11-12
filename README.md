@@ -3,7 +3,8 @@ Some information about Knowledge Graph Reasoning
 
 ## Content
 * [Datasets](#Datasets)
-* [One-shot_Reasoning](#One-shot_Reasoning)
+* [One-shot-Reasoning](#One-shot-Reasoning)
+* [Few-shot-Reasoning](#Few-shot-Reasoning)
 * [Path-based](#Path-based)
 * [Graph-based](#Graph-based)
 * [Rule-based](#Rule-based)
