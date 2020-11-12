@@ -63,9 +63,11 @@ Some information about Knowledge Graph Reasoning
 ## Relation-extraction
 - **(PCNN+ATT)** 2016 "Neural Relation Extraction with Selective Attention over Instances." [paper](http://www.thunlp.org/~lyk/publications/acl2016_nre.pdf) [code_tensorflow](https://github.com/thunlp/NRE) [code_pytorch](https://github.com/ShomyLiu/pytorch-relation-extraction)
 
-- **(Neural Snowball)** 2020 "Neural Snowball for Few-Shot Relation Learning." [paper](https://arxiv.org/pdf/1908.11007.pdf) [code](https://github.com/thunlp/Neural-Snowball)
-
 - 2019 "Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks." [paper](https://www.aclweb.org/anthology/N19-1306/)
+
+- **(GP-GNN)** 2019 "Graph Neural Networks with Generated Parameters for Relation Extraction." [paper](https://www.aclweb.org/anthology/P19-1128.pdf)[code](https://github.com/thunlp/gp-gnn)
+
+- **(Neural Snowball)** 2020 "Neural Snowball for Few-Shot Relation Learning." [paper](https://arxiv.org/pdf/1908.11007.pdf) [code](https://github.com/thunlp/Neural-Snowball)
 
 - **(wRAN)** 2020 "Relation Adversarial Network for Low Resource Knowledge Graph Completion." [paper](https://arxiv.org/abs/1911.03091) [code](https://github.com/zxlzr/RAN)
 
