@@ -27,7 +27,7 @@ Some information about Knowledge Graph Reasoning
 
 ## Few-shot-Reasoning
 - **(Meta-KGR)** 2019 "Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations." [paper](https://arxiv.org/pdf/1908.11513.pdf) [code](https://github.com/THU-KEG/MetaKGR)
-- **(FSRL)** 2020 "Few-Shot Knowledge Graph Completion." [paper](https://arxiv.org/abs/1911.11298?context=cs) 
+- **(FSRL)** 2020 "Few-Shot Knowledge Graph Completion." [paper](https://arxiv.org/abs/1911.11298?context=cs) [code](https://github.com/chuxuzhang/AAAI2020_FSRL)
 - **(FAAN)** 2020 "Adaptive Attentional Network for Few-Shot Knowledge Graph Completion." [paper](https://www.researchgate.net/publication/344756931_Adaptive_Attentional_Network_for_Few-Shot_Knowledge_Graph_Completion) [code](https://github.com/JiaweiSheng/FAAN)
 
 ## Path-based
